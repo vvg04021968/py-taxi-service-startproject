@@ -4,3 +4,4 @@ pycache
  etc
 /db.sqlite3
 __pycache__
+taxi/__pycache__
